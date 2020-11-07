@@ -1,10 +1,13 @@
 # Notice at 10/19/2019
-1. Google map API is not free for use now, this project will revise to use mapbox API soon.
-2. Plotly function in this project is obselete now, and this project will be revised to new one soon. 
+1. Google map API is not for free now. -> Will be updated to mapbox API soon.
+2. Plotly function in this function doesn't work now. -> Will be updated soon.
 
 
 # si-507-project-4
-Final project for SI 507
+Final project for SI 507 (School of Information master course at University of Michigan-Ann Arbor)
+
+program diagram:
+![program diagram](https://i.imgur.com/a60s6Xu.png)
 
 #[Data resources]#############################
 1. The Economic data in this project is from API of THE WORLD BANK. 
