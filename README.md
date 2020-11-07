@@ -7,7 +7,7 @@
 Final project for SI 507 (School of Information master course at University of Michigan-Ann Arbor)
 
 program diagram:
-![program diagram](https://i.imgur.com/a60s6Xu.png =100x20)
+![program diagram](https://i.imgur.com/a60s6Xu.png)
 
 #[Data resources]#############################
 1. The Economic data in this project is from API of THE WORLD BANK. 
